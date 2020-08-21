@@ -57,7 +57,4 @@
                             DemoApplicationTests.java
 ```
 ## 数据库表
-```text
-id  username    password    email   status  code    regtime
-186	admin	4297f44b13955235245b2497399d7a93	sfluo123@gmail.com	N	935bd3725d3e4245a26c454fa468e791    （null）
-```
+![](./SQL-Table.png)
